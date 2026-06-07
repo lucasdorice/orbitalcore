@@ -1,0 +1,93 @@
+
+
+  ============================================================
+   ☀️  ORBITALCORE — RELATÓRIO ENERGÉTICO SER
+   🛰️  Sistema de Energia Renovável — LEO 900km
+  ============================================================
+
+
+╔════════════════════════════════════════════════════════════════╗
+║ 1. RESUMO DA MISSÃO                                            ║
+╚════════════════════════════════════════════════════════════════╝
+  Altitude orbital:                    400 km (LEO)
+  Período orbital:                     120 min
+  Tempo no sol:                        60 min (50%)
+  Tempo na sombra:                     60 min (50%)
+  ──────────────────────────────────────────────────────────────
+  Órbitas simuladas:                   10
+  Duração total:                       1195 min (19.9 h)
+  Registros de telemetria:             240
+  Alertas gerados:                     0
+
+╔════════════════════════════════════════════════════════════════╗
+║ 2. BALANÇO ENERGÉTICO                                          ║
+╚════════════════════════════════════════════════════════════════╝
+  Energia total gerada:                14366.9 Wh
+  Energia total consumida:             8659.6 Wh
+  Balanço líquido:                     +5707.3 Wh
+  Superávit:                           +65.9%
+  ──────────────────────────────────────────────────────────────
+  Potência média gerada:               718.3 W
+  Consumo médio:                       433.0 W
+  Pico de geração:                     1500.0 W
+  Pico de consumo:                     492.8 W
+  Autonomia estimada (bateria):        4.6 h
+
+╔════════════════════════════════════════════════════════════════╗
+║ 3. ANÁLISE POR ÓRBITA                                          ║
+╚════════════════════════════════════════════════════════════════╝
+  Órbita │ Gerado(Wh) │ Consumo(Wh) │ Balanço(Wh) │ SOC Min │ SOC Max
+  ───────┼────────────┼─────────────┼─────────────┼─────────┼────────
+       1 │     1396.2 │       900.0 │      +496.3 │   77.5% │  100.0%
+       2 │     1443.7 │       847.4 │      +596.3 │   76.8% │  100.0%
+       3 │     1445.4 │       840.3 │      +605.1 │   80.2% │  100.0%
+       4 │     1432.6 │       910.9 │      +521.7 │   76.4% │  100.0%
+       5 │     1428.3 │       822.9 │      +605.4 │   78.1% │  100.0%
+       6 │     1434.5 │       865.6 │      +569.0 │   79.6% │  100.0%
+       7 │     1435.5 │       892.8 │      +542.7 │   76.0% │  100.0%
+       8 │     1440.2 │       817.4 │      +622.8 │   79.0% │  100.0%
+       9 │     1455.3 │       890.2 │      +565.1 │   78.7% │  100.0%
+      10 │     1455.2 │       872.2 │      +583.0 │   76.1% │  100.0%
+
+╔════════════════════════════════════════════════════════════════╗
+║ 4. SUSTENTABILIDADE                                            ║
+╚════════════════════════════════════════════════════════════════╝
+  Fator de sustentabilidade:           1.66x
+  Energia renovável:                   100% (100% solar)
+  CO₂ evitado vs terrestre:            4.330 kg
+  ──────────────────────────────────────────────────────────────
+  Cooling orbital (OrbitalCore):       0 W (radiação no vácuo)
+  Cooling terrestre (referência):      400 W (HVAC)
+  Economia em refrigeração:            100%
+  ──────────────────────────────────────────────────────────────
+  PUE OrbitalCore:                     1.05
+  PUE terrestre (referência):          1.60
+  Ganho de eficiência PUE:             34.4%
+
+╔════════════════════════════════════════════════════════════════╗
+║ 5. COMPARAÇÃO: ORBITAL vs TERRESTRE                            ║
+╚════════════════════════════════════════════════════════════════╝
+  Métrica                        │    OrbitalCore │      Terrestre
+  ───────────────────────────────┼────────────────┼───────────────
+  Consumo TI (W)                 │          433.0 │         1000.0
+  Cooling (W)                    │            0.0 │          400.0
+  Consumo Total (W)              │          433.0 │         1400.0
+  PUE                            │           1.00 │           1.40
+  CO₂/hora (kg)                  │         0.0000 │         0.7000
+  Energia Renovável (%)          │           100% │            20%
+  Custo Relativo                 │         0.3093 │         1.0000
+
+╔════════════════════════════════════════════════════════════════╗
+║ 6. RECOMENDAÇÕES                                               ║
+╚════════════════════════════════════════════════════════════════╝
+  ✅ Sistema energeticamente sustentável (fator 1.66x).
+  ✅ Autonomia adequada (4.6h).
+  ✅ Nenhum alerta de temperatura. Controle térmico operando nominalmente.
+  ✅ Bateria estável durante toda a missão.
+  🌍 PUE de 1.05 — 34% mais eficiente que data centers terrestres (PUE 1.6).
+  🌱 Zero emissões diretas de CO₂ — 100% energia solar.
+
+  ────────────────────────────────────────────────────────────
+  Relatório gerado pelo módulo SER — OrbitalCore
+  FIAP Global Solution 2026
+  ────────────────────────────────────────────────────────────
