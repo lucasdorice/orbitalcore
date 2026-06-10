@@ -3,4 +3,4 @@ Nome da equipe: G6
 Integrantes: Lucas Dorice Dos Santos, Leandro Cavaccini Brito,  Isaías Hörlle Sobral
 RM dos integrantes: 568692, 570556, 568592 
 Link do repositório GitHub: https://github.com/lucasdorice/orbitalcore
-Link do vídeo pitch no YouTube:
+Link do vídeo pitch no YouTube: https://youtu.be/oFbje5p6uc8
